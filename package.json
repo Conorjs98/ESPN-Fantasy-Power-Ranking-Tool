@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "espn-fantasy-football-api": "^0.15.0"
+    "espn-fantasy-football-api": "^0.16.1"
   }
 }
